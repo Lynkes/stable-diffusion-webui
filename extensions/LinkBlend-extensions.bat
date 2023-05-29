@@ -1,0 +1,14 @@
+git clone https://github.com/toriato/stable-diffusion-webui-wd14-tagger.git
+git clone https://github.com/hnmr293/sd-webui-cutoff.git
+git clone https://github.com/lllyasviel/ControlNet.git
+git clone https://github.com/adieyal/sd-dynamic-prompts.git
+git clone https://github.com/nonnonstop/sd-webui-3d-open-pose-editor.git
+git clone https://github.com/fkunn1326/openpose-editor.git
+git clone https://github.com/hnmr293/posex.git
+git clone https://github.com/animerl/novelai-2-local-prompt.git
+git clone https://github.com/Extraltodeus/multi-subject-render.git
+git clone https://github.com/mix1009/model-keyword.git
+git clone https://github.com/LonicaMewinsky/gif2gif.git
+git clone https://github.com/Malisius/booru2prompt.git
+git clone https://github.com/DominikDoom/a1111-sd-webui-tagcomplete.git
+git clone https://github.com/Mikubill/sd-webui-controlnet.git
